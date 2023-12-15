@@ -1,6 +1,7 @@
 :root {
     --color-primary: #ffa500;
     --color-white: #fff;
+    --color-dark: #000;
 
 }
 
@@ -69,6 +70,8 @@
 
 }
 
+
+
 /* .homeParallax::before {
     content: '';
     position: absolute;
@@ -92,7 +95,9 @@
     object-fit: cover;
 }
 
-
+.footer{
+    background-color: var(--color-dark);
+}
 
 
 
