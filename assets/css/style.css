@@ -101,10 +101,14 @@
 
 
 
+/* ################# css for about us page ##############  */
 
-
-
-
+#testimonialsCarousel img{
+    width: 80%;
+    display: block;
+    margin: 0 auto 15px;
+    border: 4px solid #fff;
+}
 
 
 
